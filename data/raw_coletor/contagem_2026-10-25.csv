@@ -1,0 +1,4 @@
+contagem_id,sku,local_cd,qtd_coletada,usuario
+INV001,SKU12345,A3-12-4,8,jordan
+INV001,SKU12346,A3-12-5,5,jordan
+INV001,SKU12347,A3-12-6,15,jordan
